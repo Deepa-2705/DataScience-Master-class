@@ -1,7 +1,14 @@
 # DataScience-Master-class
 This repository is dedicated to my solutions of assignments given by PWSKILLS for the course "DATA SCIENCE MASTERS - IMPACT BATCH 1"
 
-### Topics Covered
+## Structure
+The Assignments are names in the format : Assignment_WeekNo_AssignmentNumberofthatWeek_ConceptUsedintheAssignment.ipynb.
+
+In the solutions while solving the assignments I have also gone a bit deep by exploring the web and learning new things which are also a part in some assignments. Also, I have made notes for all the topics and a detailed repository will be made soon in a much more structured format including some pratice codes, notes, assignment questions and solutions.
+
+All the assignments are completed using Jupyter notebook in a way I understood the concepts feel free to go through them as they cover almost the most vital topics involved during the interviews.
+
+## Topics Covered
 
 Below are the topics you'll find in this repository:
 
@@ -36,7 +43,7 @@ Below are the topics you'll find in this repository:
 🔹 Real Time Data Science Projects
 
 
-### Description
+## Description
 👋 Welcome to the PWSKILLS Assignments Repository!
 
 📚 This repository contains a collection of assignments related to Python, Data Science, Machine Learning, and Artificial Intelligence, curated by the team at PWSKILLS.
@@ -47,7 +54,7 @@ Below are the topics you'll find in this repository:
 
 📈 As you progress through the assignments, you'll build a solid foundation in Python and gain experience in using popular data science libraries such as NumPy, Pandas, and Matplotlib. You'll also explore cutting-edge topics like machine learning and artificial intelligence, learning how to build predictive models and intelligent agents.
 
-### 🚀 Let's learn and grow together!
+## 🚀 Let's learn and grow together!
 - I hope you find this repository useful and informative in your journey towards mastering data science.
 - 👨‍💻 Happy coding! 🎉
 
