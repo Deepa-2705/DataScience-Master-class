@@ -2,7 +2,7 @@
 This repository is dedicated to my solutions of assignments given by PWSKILLS for the course "DATA SCIENCE MASTERS - IMPACT BATCH 1"
 
 ## Structure
-The Assignments are names in the format : Assignment_WeekNo_AssignmentNumberofthatWeek_ConceptUsedintheAssignment.ipynb.
+The Assignments are names in the format : Week-No_month-date > Assignments > Assignment-No.ipynb
 
 In the solutions while solving the assignments I have also gone a bit deep by exploring the web and learning new things which are also a part in some assignments. Also, I have made notes for all the topics and a detailed repository will be made soon in a much more structured format including some pratice codes, notes, assignment questions and solutions.
 
